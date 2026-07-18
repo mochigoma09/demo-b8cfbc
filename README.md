@@ -1,2 +1,3 @@
 # demo-b8cfbc
-Auto generated demo site for ダリア動物病院
+
+AIによって自動生成された ダリア動物病院 様向けのデモサイトです。
